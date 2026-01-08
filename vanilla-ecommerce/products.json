@@ -1,0 +1,34 @@
+{
+  "store": {
+    "name": "My Store",
+    "currency": "USD",
+    "btcpay_url": "https://your-btcpay-server.com",
+    "store_id": "YOUR_STORE_ID"
+  },
+  "products": [
+    {
+      "id": "product-001",
+      "name": "Example Product 1",
+      "description": "A great product description goes here.",
+      "price": 29.99,
+      "image": "product1.jpg",
+      "category": "electronics"
+    },
+    {
+      "id": "product-002",
+      "name": "Example Product 2",
+      "description": "Another amazing product.",
+      "price": 49.99,
+      "image": "product2.jpg",
+      "category": "clothing"
+    },
+    {
+      "id": "product-003",
+      "name": "Example Product 3",
+      "description": "Premium quality item.",
+      "price": 99.99,
+      "image": "product3.jpg",
+      "category": "electronics"
+    }
+  ]
+}
